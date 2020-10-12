@@ -12,3 +12,8 @@ h3{
 h4{
     color: deeppink;
 }
+h5{
+    color: red;
+    text-align: center;
+    font-size: 50px;
+}
